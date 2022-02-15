@@ -2,7 +2,7 @@
 
 ## Para visualizar este projeto em funcionamento Acesse:
 
-•	O site Aqui 
+•	https://git-ramon.github.io/jogodavelha/
 
 ## Construído com
 
